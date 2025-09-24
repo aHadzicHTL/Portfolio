@@ -1,3 +1,13 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Almir Hadzic"
+theme = "hugo-profile"
+
+[markup]
+  [markup.asciidocExt]
+    backend = "html5"
+    extensions = []
+    workingFolderCurrent = true
+[security.exec]
+allow = ["asciidoctor", "^(dart-)?sass(-embedded)?$", "^go$", "^npx$", "^postcss$"]
+

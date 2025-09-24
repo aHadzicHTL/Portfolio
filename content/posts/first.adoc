@@ -1,0 +1,9 @@
+= My Cool Project
+Your Name
+:date: 2025-09-24
+:tags: project, web
+
+This is a web project I worked on using Hugo and Asciidoc.
+
+image::images/project1.png[Project Screenshot]
+
