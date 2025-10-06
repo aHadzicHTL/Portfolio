@@ -11,3 +11,11 @@ theme = "hugo-profile"
 [security.exec]
 allow = ["asciidoctor", "^(dart-)?sass(-embedded)?$", "^go$", "^npx$", "^postcss$"]
 
+[[menu.main]]
+  name = "Blog"
+  url = "/posts/"
+  weight = 10
+
+  
+  
+
