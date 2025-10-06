@@ -2,23 +2,44 @@
 title: "My Portfolio"
 description: "Description of my awesome project."
 draft: false
+date: 2025-10-06
 ---
 
 == I'm Almir Hadzic
+:hide-uri-scheme: 
 
 I like to code and play video games.
 
-=== Technologies
+== **Technologies**
 
-===== C#
-==== Java
- 
+image::/images/csharp.svg[C#, width=128, height=128]
+image::/images/html5-original.svg[HTML, width=128, height=128]
+image::/images/css3-original.svg[CSS, width=128, height=128]
+image::/images/javascript-original.svg[JavaScript, width=128, height=128]
+image::/images/c-original.svg[C, width=128, height=128]
+image::/images/vuejs-original.svg[Vue.js, width=128, height=128]
+image::/images/java-original.svg[Java, width=128, height=128]
 
+== **Projects**
 
-== This site was built with:
+=== - RPN Calculator 
+-- C#, Avalonia
 
-===== - Hugo, AsciiDoc, and CSS
+-- Github-Repo: https://github.com/pfrey-teaching/avaloniarpncalc-aHadzicHTL
 
+=== - Portfolio
+-- Hugo, Asciidoctor
+
+-- Github-Repo: https://github.com/aHadzicHTL/Portfolio
+
+=== - Test3
+-- test, test
+
+-- https://asciidoctor.org
+
+=== This site was built with:
+
+===== - Hugo, AsciiDoc
 ===== - Highlights: Responsive, fast, and elegant
 
 

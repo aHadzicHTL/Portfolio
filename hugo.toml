@@ -3,11 +3,15 @@ languageCode = "en-us"
 title = "Almir Hadzic"
 theme = "hugo-profile"
 
+
+
 [markup]
   [markup.asciidocExt]
     backend = "html5"
     extensions = []
     workingFolderCurrent = true
+    safe = "unsafe"
+    allow-uri-read = true
 [security.exec]
 allow = ["asciidoctor", "^(dart-)?sass(-embedded)?$", "^go$", "^npx$", "^postcss$"]
 
@@ -15,6 +19,8 @@ allow = ["asciidoctor", "^(dart-)?sass(-embedded)?$", "^go$", "^npx$", "^postcss
   name = "Blog"
   url = "/posts/"
   weight = 10
+  
+  
 
   
   
