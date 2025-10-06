@@ -1,0 +1,24 @@
+---
+title: "My Portfolio"
+description: "Description of my awesome project."
+draft: false
+---
+
+== I'm Almir Hadzic
+
+I like to code and play video games.
+
+=== Technologies
+
+===== C#
+==== Java
+ 
+
+
+== This site was built with:
+
+===== - Hugo, AsciiDoc, and CSS
+
+===== - Highlights: Responsive, fast, and elegant
+
+
